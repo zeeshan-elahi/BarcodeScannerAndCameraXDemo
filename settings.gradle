@@ -1,0 +1,2 @@
+rootProject.name='Barcode Scanning Demostration App'
+include ':app'

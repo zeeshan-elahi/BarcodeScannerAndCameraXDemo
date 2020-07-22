@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MLKit and CameraX Demo</string>
+
+    <!-- Activity Titles -->
+    <string name="title_activity_barcode_scanning">Scan Barcode</string>
+
+    <!-- Misc Labels & Texts -->
+    <string name="scanned_code_result_label">Scan Result:</string>
+
+</resources>
